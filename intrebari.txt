@@ -1,0 +1,77 @@
+Cat fac 2+2?
+1).1
+2).2
+3).4
+3
+Matematica
+##
+Cand ninge?
+1).iarna
+2).primavara
+3).mereu
+1
+Geografie
+##
+Cu cat este egal 1/2?
+1).0.99(8)
+2).0.(3)
+3).0.5
+3
+Matematica
+##
+Cine a scris "Doamna Bovary"?
+1).William Shakespeare
+2).Gustave Flaubert
+3).Honore de Balzac
+2
+Literatura
+##
+Cine este personajul principal in "Ion"?
+1).Ana
+2).Vasile
+3).Ion
+3
+Literatura
+##
+Cat inseamna o patrime?
+1).1/4
+2).1/2
+3).1/8
+1
+Matematica
+##
+Unde sunt situati Muntii Macin?
+1).Dobrogea
+2).Transilvania
+3).Banat
+1
+Geografie
+##
+Cat fac 10-5?
+1).0
+2).5
+3).-5
+2
+Matematica
+##
+In ce an a murit Adolf Hitler?
+1).1945
+2).1961
+3).1989
+1
+Istorie
+##
+Din ce familie face parte trandafirul rosu?
+1).Cucurbitaceae
+2).Rosaceae
+3).Cybaeidae
+1
+Biologie
+##
+Ce cetatenie avea Ioana d'Arc?
+1).Franceza
+2).Romana
+3).Engleza
+1
+Istorie
+##
